@@ -1,0 +1,11 @@
+{
+	"full_name": "Arezqui Belaid",
+	"email": "areski@gmail.com",
+	"github_username": "areski",
+	"project_name": "Lua package Template",
+	"repo_name": "cookiecutter-lua",
+	"project_short_description": "Lua Boilerplate contains all the boilerplate you need to create a Lua package.",
+	"release_date": "2015-10-11",
+	"year": "2015",
+	"version": "0.1.0"
+}
