@@ -4,7 +4,7 @@
 
 :Author: {{ cookiecutter.full_name }}
 :Description: {{ cookiecutter.project_short_description }}
-:Documentation: RTD https://{{ cookiecutter.repo_name }}.readthedocs.org
+:Documentation: https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}/
 :Contributors: `list of contributors <https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}/graphs/contributors>`_
 :License: MIT
 
