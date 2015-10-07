@@ -11,7 +11,6 @@ Cookiecutter template for a Lua package.
 * Testing setup with `busted` http://olivinelabs.com/busted/
 * Rockspecs format: https://github.com/keplerproject/luarocks/wiki/Rockspec-format
 * Travis-CI_: Ready for Travis Continuous Integration testing
-* Sphinx_ docs: Documentation ready for generation with, for example, ReadTheDocs_
 * Bumpversion: Pre-configured version bumping with a single command
 
 Usage
@@ -39,11 +38,38 @@ be a fork.
 * It's up to you whether or not to rename your fork/own version. Do whatever
   you think sounds good.
 
+
 Or Submit a Pull Request
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 I also accept pull requests on this, if they're small, atomic, and if they
 make my own packaging experience better.
+
+
+Publish your rocks
+~~~~~~~~~~~~~~~~~~
+
+If you want to make your Lua packages easy to install via Luarocks, you will
+need to create a manifest and then upload your packages, luarocks-admin is
+the repository management tool for LuaRocks.
+
+Luarocks-admin:
+
+  https://github.com/keplerproject/luarocks/wiki/luarocks-admin
+
+Create a Manifest:
+
+  * https://github.com/keplerproject/luarocks/wiki/make-manifest
+
+Add your Rocks to repository (eg Luarocks):
+
+  * https://github.com/keplerproject/luarocks/wiki/add
+
+
+Awesome
+~~~~~~~
+
+Need more awesomeness from Lua, checkout https://github.com/LewisJEllis/awesome-lua
 
 
 TODO
