@@ -49,10 +49,10 @@ make my own packaging experience better.
 TODO
 ~~~~
 
-* Lua-cov: http://luacov.luaforge.net/
+* Lua-cov: http://luacov.luaforge.net/ - https://github.com/mpeterv/argparse/blob/master/.travis.yml
 * LuaDoc: http://keplerproject.github.io/luadoc/
+* Makefile: ideas from https://github.com/mirven/underscore.lua/blob/master/Rakefile
+* Linter: Luacheck https://github.com/mpeterv/luacheck - https://github.com/mpeterv/argparse/blob/master/.travis.yml
 
 
 .. _Travis-CI: http://travis-ci.org/
-.. _Sphinx: http://sphinx-doc.org/
-.. _ReadTheDocs: https://readthedocs.org/
