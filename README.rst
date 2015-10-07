@@ -76,8 +76,8 @@ TODO
 ~~~~
 
 * Lua-cov: http://luacov.luaforge.net/ - https://github.com/mpeterv/argparse/blob/master/.travis.yml
-* LuaDoc: http://keplerproject.github.io/luadoc/
-* Makefile: ideas from https://github.com/mirven/underscore.lua/blob/master/Rakefile
+* Ldoc: http://stevedonovan.github.io/ldoc/ doc generator
+* Add a Makefile: eg https://github.com/mirven/underscore.lua/blob/master/Rakefile
 * Linter: Luacheck https://github.com/mpeterv/luacheck - https://github.com/mpeterv/argparse/blob/master/.travis.yml
 
 
