@@ -25,11 +25,11 @@
 
 local PKG_AUTHOR = '{{ cookiecutter.full_name }}'
 local PKG_EMAIL = '{{ cookiecutter.email }}'
-local PKG_VERSION = '{{ cookiecutter.version }}'
+local PKG_VERSION = '{{ cookiecutter.version }}-1'
 
 
 local {{ cookiecutter.repo_name }} = {
-    _VERSION = '{{ cookiecutter.version }}',
+    _VERSION = '{{ cookiecutter.version }}-1',
 }
 
 
