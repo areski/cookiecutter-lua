@@ -35,14 +35,6 @@ expose("exposed test for {{ cookiecutter.repo_name }}", function()
             assert.falsy(nil)
             assert.has_error(function() error("Wat") end, "Wat")
         end)
-
-        it("should provide some shortcuts to common functions", function()
-            assert.are.unique({{ thing = 1 }, { thing = 2 }, { thing = 3 }})
-        end)
-
-        it("should provide some shortcuts to common functions", function()
-            assert.are.unique({{ thing = 1 }, { thing = 2 }, { thing = 3 }})
-        end)
     end)
 
     -- more tests pertaining to the top level
